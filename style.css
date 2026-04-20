@@ -95,7 +95,7 @@ body {
 }
 /* частина 5 - Саня */
 .parallax {
-    background-image: url('./Img/pexels-haleyve-3968061.jpg'); 
+    background-image: url('img/pexels-haleyve-3968061.jpg'); 
     height: 100vh;
     background-attachment: fixed;/* Фіксує фон відносно вікна браузера */
     background-size: cover;
